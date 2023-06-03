@@ -1,0 +1,27 @@
+header {
+  display: flex;
+  align-items: center;
+  justify-content:space-between;
+  padding: 0 2rem;
+  height: 5rem;
+  background-color: #a1bfc7;
+  border-top: black 1px solid;
+  border-bottom: black 1px solid;
+}
+.title {
+  font-size: x-large;
+  font-variant: small-caps;
+  color: black;
+  font-weight: 900;
+}
+.lista {
+  font-size: larger;
+  font-weight: 300;
+  color: blue;
+}
+
+li {
+  display: inline-block;
+  margin: 0 1rem;
+  cursor: pointer;
+}

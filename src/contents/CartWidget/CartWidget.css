@@ -1,0 +1,19 @@
+.areaCarrito{
+  display: flex;
+  align-content:space-evenly;
+  justify-content: center;
+  align-items: flex-end;
+}
+.imgCarrito {
+  align-items: center;
+  width: 50px;
+  border-radius: 5px;
+  border: black 1px solid;
+  cursor: pointer;
+}
+ .numeroCarrito {
+  padding-left: 4px;
+  font-size: medium;
+  font-weight: 900;
+  color: black;
+ }
